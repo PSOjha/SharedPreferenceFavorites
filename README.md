@@ -1,4 +1,4 @@
-# SharedPreferenceFavorites
+# SharedPreferenceFavorites.
  Save you collections offline in android — sharepreferences
 https://medium.com/@rogercolquehuanca/storage-data-offline-in-android-sharepreferences-39fd34a0b7ff
  ## 📸 Screenshots
